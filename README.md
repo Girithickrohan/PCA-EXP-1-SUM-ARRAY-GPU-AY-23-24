@@ -2,7 +2,7 @@
 <h3>NAME: GIRITHICK ROHAN N</h3>
 <h3>REG.NO: 212223230063</h3>
 <h3>EX. NO: 1</h3>
-<h3>DATE: 30/08/25 </h3>
+<h3>DATE: 19/08/25 </h3>
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
 PCA-GPU-based-vector-summation.-Explore-the-differences.
 i) Using the program sumArraysOnGPU-timer.cu, set the block.x = 1023. Recompile and run it. Compare the result with the execution configuration of block.x = 1024. Try to explain the difference and the reason.
